@@ -11,7 +11,7 @@ public class App {
     }
 
     public static String hello() {
-        return "Hello World!";
+        return "Bonjour Monde, je suis un message explicite !";
     }
 
     public static String hello(String param) {
